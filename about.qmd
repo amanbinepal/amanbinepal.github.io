@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+My name is Amanpreet Binepal but I go by Aman. I am a student at UBC in the Master of Data Science Program with the goal of pursuing Data Science. I am born and raised in British Columbia specifically Surrey, BC. Before UBC I went to BCIT where I completed a Diploma in Computer Information Technology and a Bachelor's of Business Administration with a focus in Business Intelligence.

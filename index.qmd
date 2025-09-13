@@ -2,6 +2,4 @@
 title: "Aman Binepal's Site"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my website! If you want to learn more about me, please navigate to the About page.
